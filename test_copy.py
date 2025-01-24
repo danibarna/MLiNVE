@@ -14,6 +14,7 @@ a+b
 
 print("Hello, World!")
 
+print("We did it!")
 
 
 # %%
